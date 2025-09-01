@@ -1,6 +1,6 @@
 # Portfólio
 
-# https://corvopenado.github.io/portifolio
+# https://corvopenado.github.io/portfolio
 
 Este é o meu portfólio pessoal, um espaço onde mostro alguns dos meus projetos e habilidades. Ele foi desenvolvido com foco em **design responsivo e acessibilidade**, garantindo uma ótima experiência de usuário em qualquer dispositivo.
 
